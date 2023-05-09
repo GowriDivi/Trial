@@ -9,3 +9,5 @@ Author : Gowri
 3.Last seen code
 
 4.Attachments (Image, Audio, Video) code
+
+5.Hiding the last scene
